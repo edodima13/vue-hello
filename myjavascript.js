@@ -1,7 +1,8 @@
 var app = new Vue({
     el: "#root",
     data: {
-        message:"ciao"
+        message:"ciao",
+        imgUrl: "https://picsum.photos/200"
     }
 })
 
